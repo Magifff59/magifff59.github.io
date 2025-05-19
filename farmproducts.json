@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Яблука",
+        "price": 50,
+        "category": "Фрукти",
+        "img": "img/apples.png"
+    },
+    {
+        "name": "Банани",
+        "price": 20,
+        "category": "Фрукти",
+        "img": "img/bananas.png"
+    },
+    {
+        "name": "Морква",
+        "price": 50,
+        "category": "Овочі",
+        "img": "img/carrots.png"
+    },
+    {
+        "name": "Часник",
+        "price": 20,
+        "category": "Овочі",
+        "img": "img/garlic.png"
+    },
+    {
+        "name": "Виноград",
+        "price": 100,
+        "category": "Фрукти",
+        "img": "img/grapes.png"
+    },
+    {
+        "name": "Салат",
+        "price": 30,
+        "category": "Овочі",
+        "img": "img/lettuce.png"
+    },
+    {
+        "name": "Цибуля",
+        "price": 20,
+        "category": "Овочі",
+        "img": "img/onions.png"
+    },
+    {
+        "name": "Картопля",
+        "price": 30,
+        "category": "Овочі",
+        "img": "img/potatos.png"
+    },
+    {
+        "name": "Червоний виноград",
+        "price": 100,
+        "category": "Фрукти",
+        "img": "img/redgrapes.png"
+    },
+    {
+        "name": "Домашній сир",
+        "price": 60,
+        "category": "Сири",
+        "img": "img/cottagecheese.jpg"
+    },
+    {
+        "name": "Сир",
+        "price": 50,
+        "category": "Сири",
+        "img": "img/cheese.jpg"
+    },
+    {
+        "name": "Полуниця",
+        "price": 60,
+        "category": "Ягоди",
+        "img": "img/strawberry.png"
+    },
+    {
+        "name": "Ожина",
+        "price": 40,
+        "category": "Ягоди",
+        "img": "img/Blackberry.png"
+    }
+]
